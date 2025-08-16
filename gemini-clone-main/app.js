@@ -3,7 +3,7 @@ const promptInput = document.querySelector(".prompt-input");
 const chatsContainer = document.querySelector(".chats-container");
 const container = document.querySelector(".container");
 
-const API_KEY = "AIzaSyAX2GDjNsefrcGvHUSncGZozX-rBvAGVBU";
+const API_KEY = "nokki iruno ";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 let userMessage = "";
